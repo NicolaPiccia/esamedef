@@ -9,7 +9,7 @@
                 <img src="img/istockphoto-1346304276-612x612.jpg" alt="immagine coupon" class="imgcs">
             </div>
             <div class="chisiamo">
-                <h1 class="h1">Chi siamo?</h1>
+                <h1 class="h1">Chi siamo? boj</h1>
                 <div class="testochisiamo">
                     <p>Benvenuti nel sito dell'azienda di coupon!
                         Siamo specializzati in offrire ai nostri clienti una vasta gamma di coupon scontati su prodotti e servizi di alta qualità.
