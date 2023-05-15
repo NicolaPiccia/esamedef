@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 /*
     Questo header è un flexbox che contiene nav, logo e la searchbar. Si utilizza 'display: flex' per rendere la sezione un "container"
     di tipo flex che ci permette di gestire ed organizzare meglio il layout di pagina. Anche le sezioni contenute dall'header sono
@@ -5,7 +7,7 @@
 */
 
 header {
-    position: sticky;
+    position: relative;
     font-family: 'Lexend', sans-serif;
     top: 0;
     height: 55px;
@@ -14,7 +16,7 @@ header {
     justify-content: space-around;
     align-items: center;
     padding: 0;
-    background: #648b8d;
+    background-color: #762c2c;
 }
 nav{
     display: flex;

@@ -18,7 +18,7 @@
         </main>
 
         <footer>
-            <p>ciao questo è un footer di prova</p>
+            @include('layouts/footer')
         </footer>
     </body>
 </html>
