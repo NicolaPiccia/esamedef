@@ -18,5 +18,5 @@ Route::get('/catalogo', function () {
 
 
 Route::get('/index', function () {
-    return view('index');
+    return view('home');
 })-> name('index');
