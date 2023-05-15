@@ -1,3 +1,9 @@
+/*
+    Questo header è un flexbox che contiene nav, logo e la searchbar. Si utilizza 'display: flex' per rendere la sezione un "container"
+    di tipo flex che ci permette di gestire ed organizzare meglio il layout di pagina. Anche le sezioni contenute dall'header sono
+    dei flexbox in modo tale da organizzare meglio i loro contenuti, es: .nav
+*/
+
 header {
     position: sticky;
     font-family: 'Lexend', sans-serif;
@@ -8,7 +14,7 @@ header {
     justify-content: space-around;
     align-items: center;
     padding: 0;
-    background: #593959;
+    background: #648b8d;
 }
 nav{
     display: flex;
