@@ -20,3 +20,13 @@ Route::get('/catalogo', function () {
 Route::get('/index', function () {
     return view('home');
 })-> name('index');
+
+
+Route::get('/login', function () {
+    return view('login');
+})-> name('login');
+
+
+Route::get('/registrazione', function () {
+    return view('registrazione');
+})-> name('registrazione');
